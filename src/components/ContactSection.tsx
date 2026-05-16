@@ -42,18 +42,6 @@ const ContactSection = () => {
               </div>
             </div>
 
-            {/* Telegram Button */}
-            <motion.a
-              href="https://t.me/gebeya_dala"
-              target="_blank"
-              rel="noopener noreferrer"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              className="inline-flex items-center gap-3 bg-white text-primary px-8 py-4 font-bold text-lg uppercase tracking-widest shadow-xl hover:bg-white/90 transition-colors"
-            >
-              <Send className="w-5 h-5" />
-              Message Us on Telegram
-            </motion.a>
           </motion.div>
         </div>
 
