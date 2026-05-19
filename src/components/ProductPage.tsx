@@ -89,10 +89,11 @@ const ProductPage = () => {
             <div className="pt-8 border-t border-primary/10">
               <p className="text-sm text-muted-foreground mb-4 font-medium">To inquire about wholesale or local delivery:</p>
               <a 
-                href="tel:0921555888" 
+                href="tel:0921555888,0973346333 " 
                 className="inline-flex items-center gap-3 bg-primary text-primary-foreground px-10 py-5 rounded-none font-black text-xl hover:bg-primary/90 transition-all shadow-xl active:scale-95 uppercase tracking-widest"
               >
-                Call to Order: 0921555888
+                Call to Order: 0921555888  
+                              0973346333                
               </a>
             </div>
           </motion.div>
