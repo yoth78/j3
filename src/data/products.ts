@@ -18,7 +18,7 @@ export interface Product {
 export const products: Product[] = [
   {
     id: "yirgacheffe-specialty",
-    name: "Yirgacheffe Specialty",
+    name: "sidama-coffee",
     price: "$22.00",
     description: "Fruity, jasmine notes with a balanced medium body. Highly prized by coffee connoisseurs worldwide.",
     imageUrl: "https://storage.googleapis.com/dala-prod-public-storage/attachments/8125c7aa-d9dd-4e40-b993-5621fdf4e946/1778342500968_1__2_.jpg",
@@ -34,7 +34,7 @@ export const products: Product[] = [
   },
     {
     id: "sidama-coffee",
-    name: "Sidama Coffee",
+    name: "yirgacheffe-specialty",
     price: "$18.00",
     description: "Smooth, floral, and bright notes from the Sidama highlands. A classic representation of Ethiopian terroir.",
     imageUrl: "https://storage.googleapis.com/dala-prod-public-storage/attachments/8125c7aa-d9dd-4e40-b993-5621fdf4e946/1778342817100_5__2_.jpg",
