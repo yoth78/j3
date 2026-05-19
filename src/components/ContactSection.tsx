@@ -19,7 +19,7 @@ const ContactSection = () => {
 
             <div className="flex flex-col md:flex-row justify-center items-center gap-12 mb-12">
               <a
-                href="tel:0921555888"
+                href="tel:0921555888,0973346333"
                 className="flex items-center gap-6 group hover:translate-x-2 transition-transform"
               >
                 <div className="w-14 h-14 bg-background rounded-none flex items-center justify-center border border-primary/20 group-hover:bg-accent group-hover:text-white transition-colors shadow-sm">
@@ -27,7 +27,7 @@ const ContactSection = () => {
                 </div>
                 <div className="text-left">
                   <p className="text-sm text-primary-foreground/60 font-bold uppercase tracking-widest">Call Us</p>
-                  <p className="text-2xl font-black uppercase">0921555888</p>
+                  <p className="text-2xl font-black uppercase">0921555888,0973346333</p>
                 </div>
               </a>
 
