@@ -17,22 +17,6 @@ export interface Product {
 
 export const products: Product[] = [
   {
-    id: "sidama-coffee",
-    name: "Sidama Coffee",
-    price: "$18.00",
-    description: "Smooth, floral, and bright notes from the Sidama highlands. A classic representation of Ethiopian terroir.",
-    imageUrl: "https://storage.googleapis.com/dala-prod-public-storage/attachments/8125c7aa-d9dd-4e40-b993-5621fdf4e946/1778342817100_5__2_.jpg",
-    rating: 5,
-    details: {
-      origin: "Sidama Region, Ethiopia",
-      altitude: "1,500 - 2,200m",
-      roast: "Light-Medium",
-      profile: "Floral, Citrus, Berry",
-      body: "Light & Silky",
-      acidity: "Bright & Winey"
-    }
-  },
-  {
     id: "yirgacheffe-specialty",
     name: "Yirgacheffe Specialty",
     price: "$22.00",
@@ -46,6 +30,22 @@ export const products: Product[] = [
       profile: "Jasmine, Lemon, Peach",
       body: "Elegant & Tea-like",
       acidity: "High & Complex"
+    }
+  },
+    {
+    id: "sidama-coffee",
+    name: "Sidama Coffee",
+    price: "$18.00",
+    description: "Smooth, floral, and bright notes from the Sidama highlands. A classic representation of Ethiopian terroir.",
+    imageUrl: "https://storage.googleapis.com/dala-prod-public-storage/attachments/8125c7aa-d9dd-4e40-b993-5621fdf4e946/1778342817100_5__2_.jpg",
+    rating: 5,
+    details: {
+      origin: "Sidama Region, Ethiopia",
+      altitude: "1,500 - 2,200m",
+      roast: "Light-Medium",
+      profile: "Floral, Citrus, Berry",
+      body: "Light & Silky",
+      acidity: "Bright & Winey"
     }
   },
   {
