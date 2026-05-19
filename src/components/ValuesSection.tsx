@@ -15,7 +15,7 @@ const ValuesSection = () => {
     },
     {
       title: "Market",
-      description: "Ethiopian domestic market",
+      description: "Global Export Market",
       icon: Globe,
     },
     {
